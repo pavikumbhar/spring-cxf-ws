@@ -1,0 +1,6 @@
+  
+
+rootProject.name = 'spring-cxf-ws-client'
+
+include 'soap-library'
+project(':soap-library').projectDir=new File(settingsDir,'../soap-library')
