@@ -9,7 +9,11 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import com.pavikumbhar.ws.service.HelloPortImpl;
-
+/**
+ * 
+ * @author pavikumbhar
+ *
+ */
 @Configuration
 public class WSEndpointConfiguration {
 
